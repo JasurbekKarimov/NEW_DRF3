@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'django_filters',
     'authentication',
     'movies',
+    'drf_yasg',
 ]
 
 SITE_ID = 1
