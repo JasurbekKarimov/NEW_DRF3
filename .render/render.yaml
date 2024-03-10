@@ -1,0 +1,2 @@
+buildCommand: poetry install
+startCommand: gunicorn api_crud.wsgi:application
